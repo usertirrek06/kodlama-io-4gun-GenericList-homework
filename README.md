@@ -1,0 +1,1 @@
+# kodlama-io-4gun-GenericList-homework
